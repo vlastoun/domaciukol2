@@ -8,10 +8,10 @@ Výstupem programu je dvojkové číslo, které je součtem vstupních hodnot. V
 Chybné vstupy program detekuje. reaguje na ně výpisem chybového hlášení a ukončením.
 
 #Vzorové řešení
-Zadejte dve binarni cisla: <\br>
-10101 101001<\br>
-Soucet: 111110<\br>
-<\br>
-Zadejte dve binarni cisla:<\br>
-1111100 100<\br>
-Soucet: 10000000<\br>
+Zadejte dve binarni cisla: __
+10101 101001__
+Soucet: 111110__
+__
+Zadejte dve binarni cisla:__
+1111100 100__
+Soucet: 10000000__
